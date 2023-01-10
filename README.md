@@ -6,9 +6,9 @@ I have used iframe for playing video. Also you search any video and filter it by
 
 
 # Features
-Search any video which is publicly available on YouTube.
-Watch any Video (used iframe)
-Filter by Relavance, Video count, Date, View Count etc..
+Search any video which is publicly available on YouTube <br/>
+Watch any Video (used iframe) <br/>
+Filter by Relavance, Video count, Date, View Count etc.. <br/>
 
 # Deployed Link
 <a href="https://youtube-fw21-1003.netlify.app/">Demo</a>
