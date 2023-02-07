@@ -4,11 +4,17 @@ I have used iframe for playing video. Also you search any video and filter it by
 
 <center><img src="https://drive.google.com/uc?export=view&id=1O4Coh1KzFNCf2vsrE-M-QXKEkltt44el" width="90%"></img></center>
 
+# Tech Satck
+ - `HTML`
+ - `CSS`
+ - `JavaScript`
+ - `Youtube API`
 
 # Features
 Search any video which is publicly available on YouTube <br/>
 Watch any Video (used iframe) <br/>
 Filter by Relavance, Video count, Date, View Count etc.. <br/>
+Debouncing algo for api optimization
 
 # Deployed Link
 <a href="https://youtube-fw21-1003.netlify.app/">Demo</a>
